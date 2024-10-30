@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<style>
+
+body {backround-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+
+</style>
+</head>
+<body>
+
+<h1>Oh. Hi.</h1>
+<p>this is literally it.</p>
+
+</body>
+</html>
